@@ -1,0 +1,23 @@
+GET /bapi/nft/v1/private/nft/user-info/white-list HTTP/1.1
+Host: www.binance.com
+Connection: keep-alive
+x-trace-id: 069ab8df-2a68-44e8-ac7a-4755166618a7
+csrftoken: xxxxxx
+x-ui-request-trace: 069ab8df-2a68-44e8-ac7a-4755166618a7
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.216 YaBrowser/21.5.4.607 Yowser/2.5 Safari/537.36
+content-type: application/json
+lang: ru
+fvideo-id: xxxxx
+sec-ch-ua-mobile: ?0
+device-info: xxxxxsMTA0MCIsInN5c3RlbV92ZXJzaW9uIjoiV2luZG93cyAxMCIsImJyYW5kX21vZGVsIjoidW5rbm93biIsInN5c3RlbV9sYW5nIjoicnUiLCJ0aW1lem9uZSI6IkdNVCszIiwidGltZXpvbmVPZmZzZXQiOi0xODAsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTAuMC40NDMwLjIxNiBZYUJyb3dzZXIvMjEuNS40LjYwNyBZb3dzZXIvMi41IFNhZmFyaS81MzcuMzYiLCJsaXN0X3BsdWdpbiI6IkJvb2tSZWFkZXIsQ2hyb21pdW0gUERGIFBsdWdpbixDaHJvbWl1bSBQREYgVmlld2VyLE5hdGl2ZSBDbGllbnQiLCJjYW52YXNfY29kZSI6IjAzMzI5ZTliIiwid2ViZ2xfdmVuZG9yIjoiR29vZ2xlIEluYy4gKE5WSURJQSkiLCJ3ZWJnbF9yZW5kZXJlciI6IkFOR0xFIChOVklESUEsIE5WSURJQSBHZUZvcmNlIEdUWCAxMDUwIFRpIERpcmVjdDNEMTEgdnNfNV8wIHBzXzVfMCwgRDNEMTEtMjcuMjEuMTQuNTY3MSkiLCJhdWRpbyI6IjEyNC4wNDM0NzUyNzUxNjA3NCIsInBsYXRmb3JtIjoiV2luMzIiLCJ3ZWJfdGltZXpvbmUiOiJFdXJvcGUvTW9zY293IiwiZGV2aWNlX25hbWUiOiJZYW5kZXggVjIxLjUuNC42MDcgKFdpbmRvd3MpIiwiZmluZ2VycHJpbnQiOiI5MjM0YWIzODU4YzFiMTZiYjg4ODZjMGIzYjU5NzRkOSIsImRldmljZV9pZCI6IiIsInJlbGF0ZWRfZGV2aWNlX2lkcyI6IjE2MjQ3ODQzNTc3NDM4WmRwU0lpbTNkWGlFNFNXN05KLDE2MjI4NzYxODM4OTQzNEJweXZtOG45c21yVU10QkRCIn0=
+bnc-uuid: 2ee26c73-1633-43c6-b75d-deda6396239a
+clienttype: web
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Yandex";v="90"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.binance.com/ru/nft/market
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru,en;q=0.9
+Cookie: xxxxxx
